@@ -10,3 +10,7 @@
 ## Technical
 
 * [HDL](technical/hdl.md)
+
+***
+
+* [Fast formula](fast-formula.md)
