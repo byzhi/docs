@@ -24,6 +24,7 @@
 
 ## Technical
 
-* [HDL](technical/hdl.md)
+* [HDL](technical/hdl/README.md)
+  * [Page 6](technical/hdl/page-6.md)
 * [Fast formula](technical/fast-formula.md)
 * [Page 4](technical/page-4.md)
