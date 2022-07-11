@@ -1,16 +1,29 @@
 # Table of contents
 
 * [oc](README.md)
-* [apple](apple.md)
 
-## ORC
+## HR
 
-* [Page 1](orc/page-1.md)
+* [Core HR](hr/core-hr.md)
+
+## Workforce Rewards
+
+* [Page 1](workforce-rewards/page-1.md)
+
+## Workforce management
+
+* [Page 2](workforce-management/page-2.md)
+
+## Talent Management
+
+* [Page 3](talent-management/page-3.md)
+
+## Taleo
+
+* [Page 5](taleo/page-5.md)
 
 ## Technical
 
 * [HDL](technical/hdl.md)
-
-***
-
-* [Fast formula](fast-formula.md)
+* [Fast formula](technical/fast-formula.md)
+* [Page 4](technical/page-4.md)
