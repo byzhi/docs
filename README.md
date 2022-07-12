@@ -12,6 +12,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum at ante sit 
 
 * Implenmentation
 
+{% embed url="https://www.oracle.com/pls/topic/lookup?ctx=fa-latest&id=FAESC" %}
+
 !\[Core HR]\([https://www.oracle.com/pls/topic/lookup?ctx=fa-latest\&id=FAIGH](https://www.oracle.com/pls/topic/lookup?ctx=fa-latest\&id=FAIGH))
 
 !\[Payroll]\([https://www.oracle.com/pls/topic/lookup?ctx=fa-latest\&id=FAICH](https://www.oracle.com/pls/topic/lookup?ctx=fa-latest\&id=FAIGH))
