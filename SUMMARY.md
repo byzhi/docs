@@ -32,7 +32,7 @@
 
 ## Technical
 
-* [HDL](technical/hdl.md)
+* [HDL](technical/hdl/README.md)
 * [HCM Extracts](technical/hcm-extracts.md)
 * [Fast formula](technical/fast-formula.md)
 * [Security](technical/page-4.md)
