@@ -1,5 +1,5 @@
 ---
-description: oraclecd is oracle fusion hcm cloud docs for human beings.
+description: www.oraclecd.com, is oracle fusion hcm cloud docs for human beings.
 ---
 
 # cd
