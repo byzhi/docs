@@ -8,34 +8,40 @@
 
 ## Workforce Rewards
 
-* [Payroll](workforce-rewards/payroll.md)
+* [Payroll](workforce-rewards/page-1.md)
 * [Benefits](workforce-rewards/benefits.md)
 * [Compensation](workforce-rewards/compensation.md)
 
 ## Workforce management
 
-* [Absence](workforce-management/absence.md)
+* [Absence](workforce-management/page-2.md)
 * [Time and Labor](workforce-management/time-and-labor.md)
 
 ## Talent Management
 
-* [Oracle Recruiting Cloud](talent-management/oracle-recruiting-cloud.md)
+* [Oracle Recruiting Cloud](talent-management/page-3.md)
 * [Profile](talent-management/profile.md)
 * [Goal](talent-management/goal.md)
 * [Performance](talent-management/performance.md)
 
+## Customization
+
+* [Sandboxes](customization/sandboxes.md)
+* [Themes](customization/themes.md)
+* [Flexfields](customization/flexfields.md)
+
 ## Technical
 
-* [HDL](technical/hdl/README.md)
-  * [Page 6](technical/hdl/page-6.md)
+* [HDL](technical/hdl.md)
 * [HCM Extracts](technical/hcm-extracts.md)
 * [Fast formula](technical/fast-formula.md)
-* [Security](technical/security.md)
+* [Security](technical/page-4.md)
 * [Webservice](technical/webservice.md)
 * [Report](technical/report/README.md)
+  * [fusion hcm](technical/report/fusion-hcm.md)
   * [tips](technical/report/tips.md)
 
 ## Taleo
 
-* [TCC](taleo/tcc.md)
+* [TCC](taleo/page-5.md)
 * [Webservice](taleo/webservice.md)
