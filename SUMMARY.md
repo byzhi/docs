@@ -1,6 +1,6 @@
 # Table of contents
 
-* [oc](README.md)
+* [cd](README.md)
 
 ## HR
 
@@ -18,13 +18,13 @@
 
 * [Page 3](talent-management/page-3.md)
 
-## Taleo
-
-* [Page 5](taleo/page-5.md)
-
 ## Technical
 
 * [HDL](technical/hdl/README.md)
   * [Page 6](technical/hdl/page-6.md)
 * [Fast formula](technical/fast-formula.md)
 * [Page 4](technical/page-4.md)
+
+## Taleo
+
+* [Page 5](taleo/page-5.md)
