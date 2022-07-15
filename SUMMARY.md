@@ -1,6 +1,7 @@
 # Table of contents
 
 * [cd](README.md)
+* [Get started](get-started.md)
 
 ## HR
 
