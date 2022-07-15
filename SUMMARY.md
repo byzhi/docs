@@ -1,6 +1,6 @@
 # Table of contents
 
-* [cd](README.md)
+* [oraclecd](README.md)
 * [Get started](get-started.md)
 
 ## HR
