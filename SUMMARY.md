@@ -1,6 +1,6 @@
 # Table of contents
 
-* [oraclecd](README.md)
+* [What is OracleCD](README.md)
 * [Get started](get-started.md)
 
 ## HR
