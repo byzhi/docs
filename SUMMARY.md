@@ -37,6 +37,7 @@
 * [HCM Extracts](technical/hcm-extracts.md)
 * [Fast formula](technical/fast-formula.md)
 * [Security](technical/page-4.md)
+* [SSO](technical/sso.md)
 * [Webservice](technical/webservice.md)
 * [Report](technical/report/README.md)
   * [fusion hcm](technical/report/fusion-hcm.md)
@@ -45,4 +46,5 @@
 ## Taleo
 
 * [TCC](taleo/page-5.md)
+* [SSO](taleo/sso.md)
 * [Webservice](taleo/webservice.md)
