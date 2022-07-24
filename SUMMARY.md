@@ -40,8 +40,9 @@
 * [SSO](technical/sso.md)
 * [Webservice](technical/webservice.md)
 * [Report](technical/report/README.md)
-  * [fusion hcm](technical/report/fusion-hcm.md)
-  * [tips](technical/report/tips.md)
+  * [BIP](technical/report/fusion-hcm.md)
+  * [OTBI](technical/report/otbi.md)
+  * [Tips and Tricks](technical/report/tips.md)
 
 ## Taleo
 
